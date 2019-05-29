@@ -1,0 +1,22 @@
+{
+  "name": "faustao-ta-pegando-fogo",
+  "version": "1.0.0",
+  "description": "Ta pegando fogo bicho!",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/bloodf/faustao-ta-pegando-fogo.git"
+  },
+  "author": "Heitor Ramon <heitor.ramon@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "tapegandofogo": "./index.js"
+  },
+  "bugs": {
+    "url": "https://github.com/bloodf/faustao-ta-pegando-fogo.git/issues"
+  },
+  "homepage": "https://github.com/bloodf/faustao-ta-pegando-fogo.git#readme"
+}
