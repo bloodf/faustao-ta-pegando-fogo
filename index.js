@@ -7,7 +7,7 @@ const fs = require('fs');
 const mainPath = path.dirname(fs.realpathSync(__filename));
 const soundPath = path.join(mainPath, './pegando-fogo-bicho');
 
-const faustaoErrou = function (){
+const faustaoTaPegandoFogo = function (){
     const linuxcmd = 'paplay '+soundPath+'.ogg';
     const windowscmd = path.join(mainPath, './forWindows.vbs')+' '+soundPath+'.mp3';
     const maccmd = 'afplay '+soundPath+'.mp3';

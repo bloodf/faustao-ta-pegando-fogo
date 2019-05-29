@@ -15,21 +15,19 @@
 ## Installing
 Install globally:
 
-    `$ npm install -g faustao-ta-pegando-fogo`
+    npm install -g faustao-ta-pegando-fogo
 
 Or install locally:
 
-    `$ npm install faustao-ta-pegando-fogo`
+    npm install faustao-ta-pegando-fogo
 
 ## Running
 Run command:
 
-    `$ tapegandofogo`
+    tapegandofogo
 
 Or import in NodeJS script:
 
-    ```JS 
     const faustaoTaPegandoFogo = require('faustao-ta-pegando-fogo');
 
     faustaoTaPegandoFogo();
-    ```
