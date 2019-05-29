@@ -1,6 +1,6 @@
 {
   "name": "simple-pegando-fogo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Ta pegando fogo bicho!",
   "main": "index.js",
   "scripts": {
@@ -14,6 +14,6 @@
   "author": "Heitor Ramon <heitor.ramon@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "faustao-ta-pegando-fogo": "^1.0.0"
+    "faustao-ta-pegando-fogo": "^1.0.1"
   }
 }
